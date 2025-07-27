@@ -20,7 +20,7 @@ function App() {
       <header className="main-header">
         <nav className="navbar">
           <div className="logo">
-            <a href="#">[Your Name]</a>
+            <a href="#">TOUHID</a>
           </div>
           <ul className={`nav-links${menuOpen ? " active" : ""}`}>
             <li><a href="#hero" onClick={() => setMenuOpen(false)}>Home</a></li>
