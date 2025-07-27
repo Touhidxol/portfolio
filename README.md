@@ -1,4 +1,4 @@
-# 🎨 Touhid – Beginner Graphic Designer Portfolio
+# 🎨 Beginner Graphic Designer Portfolio
 
 Welcome to my personal portfolio website built with **React.js**, designed to showcase my journey as a beginner **graphic designer**. This responsive and animated site features my projects, about section, and contact information.
 
