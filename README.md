@@ -1,12 +1,51 @@
-# React + Vite
+# 🎨 Touhid – Beginner Graphic Designer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built with **React.js**, designed to showcase my journey as a beginner **graphic designer**. This responsive and animated site features my projects, about section, and contact information.
 
-Currently, two official plugins are available:
+> **Live Demo**: [null]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Responsive Design
+- ✅ Smooth Scroll Animations (AOS)
+- ✅ Hamburger Menu for Mobile Navigation
+- ✅ Portfolio Grid for Projects
+- ✅ Contact Section with Email Link
+
+---
+
+## 📸 Preview
+
+> _Include a screenshot or GIF of the site here_
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **CSS**
+- **AOS (Animate on Scroll)**
+
+---
+
+## 📦 Installation
+
+To run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/portfolio-touhid.git
+
+# Navigate into the folder
+cd portfolio-touhid
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+```
+Your site should now be running at **http://localhost:3000**
+
