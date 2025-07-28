@@ -42,5 +42,5 @@ npm install
 # Start the development server
 npm run dev
 ```
-Your site should now be running at **http://localhost:3000**
+Your site should now be running at **http://localhost:5173**
 
