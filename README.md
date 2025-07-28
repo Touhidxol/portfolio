@@ -16,11 +16,6 @@ Welcome to my personal portfolio website built with **React.js**, designed to sh
 
 ---
 
-## 📸 Preview
-
-> _Include a screenshot or GIF of the site here_
-
----
 
 ## 🛠️ Tech Stack
 
@@ -36,16 +31,16 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/portfolio-touhid.git
+git clone https://github.com/Touhidxol/portfolio-website.git
 
 # Navigate into the folder
-cd portfolio-touhid
+cd portfolio-website
 
 # Install dependencies
 npm install
 
 # Start the development server
-npm start
+npm run dev
 ```
 Your site should now be running at **http://localhost:3000**
 
